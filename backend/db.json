@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "nome": "Curso de java",
+      "validade": "2021-12-31",
+      "precoProduto": 345,
+      "id": 3
+    },
+    {
+      "nome": "curso de cyber security",
+      "validade": "2022-02-12",
+      "precoProduto": 1654,
+      "id": 5
+    },
+    {
+      "nome": "chinelo havainas de cor parda",
+      "validade": "2022-01-12",
+      "precoProduto": 13213,
+      "id": 6
+    }
+  ]
+}
